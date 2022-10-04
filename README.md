@@ -1,0 +1,22 @@
+## SOBRE O PROJETO 
+
+O presente projeto é uma entrega da lista de atividades de Soluções Computacionais UNA Barreiro 
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## ATIVIDADE N° 1 
+
+Faça um Programa que mostre a mensagem "Alo mundo" na tela
